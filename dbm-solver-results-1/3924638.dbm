@@ -1,0 +1,1609 @@
+instance_run_all_threads start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+Reached 100000 ; States-in-collection: 109389 ; Time: 1485870548.874600
+>>>Queue Stats: inserted=109389 items_in_queue=9389 extracted=100000
+Reached 200000 ; States-in-collection: 216038 ; Time: 1485870550.419276
+>>>Queue Stats: inserted=216038 items_in_queue=16038 extracted=200000
+Reached 300000 ; States-in-collection: 324151 ; Time: 1485870551.752194
+>>>Queue Stats: inserted=324151 items_in_queue=24151 extracted=300000
+Reached 400000 ; States-in-collection: 434869 ; Time: 1485870553.189486
+>>>Queue Stats: inserted=434869 items_in_queue=34869 extracted=400000
+Reached 500000 ; States-in-collection: 547269 ; Time: 1485870554.573398
+>>>Queue Stats: inserted=547269 items_in_queue=47269 extracted=500000
+Reached 600000 ; States-in-collection: 659578 ; Time: 1485870555.887833
+>>>Queue Stats: inserted=659578 items_in_queue=59578 extracted=600000
+Reached 700000 ; States-in-collection: 772913 ; Time: 1485870557.229094
+>>>Queue Stats: inserted=772913 items_in_queue=72913 extracted=700000
+Reached 800000 ; States-in-collection: 886536 ; Time: 1485870558.709600
+>>>Queue Stats: inserted=886536 items_in_queue=86536 extracted=800000
+Reached 900000 ; States-in-collection: 997015 ; Time: 1485870560.300301
+>>>Queue Stats: inserted=997015 items_in_queue=97015 extracted=900000
+Reached 1000000 ; States-in-collection: 1109450 ; Time: 1485870561.931602
+>>>Queue Stats: inserted=1109450 items_in_queue=109450 extracted=1000000
+Reached 1100000 ; States-in-collection: 1221380 ; Time: 1485870564.447774
+>>>Queue Stats: inserted=1221380 items_in_queue=121380 extracted=1100000
+Reached 1200000 ; States-in-collection: 1333042 ; Time: 1485870566.815202
+>>>Queue Stats: inserted=1333042 items_in_queue=133042 extracted=1200000
+Reached 1300000 ; States-in-collection: 1445083 ; Time: 1485870569.137935
+>>>Queue Stats: inserted=1445083 items_in_queue=145083 extracted=1300000
+Reached 1400000 ; States-in-collection: 1557750 ; Time: 1485870571.060131
+>>>Queue Stats: inserted=1557750 items_in_queue=157750 extracted=1400000
+Reached 1500000 ; States-in-collection: 1670074 ; Time: 1485870572.748501
+>>>Queue Stats: inserted=1670074 items_in_queue=170074 extracted=1500000
+Reached 1600000 ; States-in-collection: 1781661 ; Time: 1485870574.611805
+>>>Queue Stats: inserted=1781661 items_in_queue=181661 extracted=1600000
+Reached 1700000 ; States-in-collection: 1894735 ; Time: 1485870576.918289
+>>>Queue Stats: inserted=1894735 items_in_queue=194735 extracted=1700000
+Reached 1800000 ; States-in-collection: 2005286 ; Time: 1485870578.874244
+>>>Queue Stats: inserted=2005286 items_in_queue=205286 extracted=1800000
+Reached 1900000 ; States-in-collection: 2118607 ; Time: 1485870580.612915
+>>>Queue Stats: inserted=2118607 items_in_queue=218607 extracted=1900000
+Reached 2000000 ; States-in-collection: 2231226 ; Time: 1485870582.295447
+>>>Queue Stats: inserted=2231226 items_in_queue=231226 extracted=2000000
+Reached 2100000 ; States-in-collection: 2346964 ; Time: 1485870583.829082
+>>>Queue Stats: inserted=2346964 items_in_queue=246964 extracted=2100000
+Reached 2200000 ; States-in-collection: 2458468 ; Time: 1485870585.328515
+>>>Queue Stats: inserted=2458468 items_in_queue=258468 extracted=2200000
+Reached 2300000 ; States-in-collection: 2569225 ; Time: 1485870586.951683
+>>>Queue Stats: inserted=2569225 items_in_queue=269225 extracted=2300000
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2333385 ; States-in-collection: 2609635 ; Time: 1485870587.609774
+>>>Queue Stats: inserted=2609635 items_in_queue=276250 extracted=2333385
+Success!
+--------
+Foundations: H-0 C-0 D-0 S-2 
+Freecells:
+: 4H TC 4C TH AD 5C 2C
+: KC 7D 6S QS JH 3D
+: AC 4S 8C 4D KH 6C 7C
+: 7H JC TD 3C 6D 3S
+: 8H 9S 9H JS 5D 2H
+: 5S 3H 5H 6H QH JD
+: QD 8S 9C 7S 8D TS
+: 2D KD 9D AH KS QC
+
+==
+Column 3 -> Foundation 3
+--------
+Foundations: H-0 C-0 D-0 S-3 
+Freecells:
+: 4H TC 4C TH AD 5C 2C
+: KC 7D 6S QS JH 3D
+: AC 4S 8C 4D KH 6C 7C
+: 7H JC TD 3C 6D
+: 8H 9S 9H JS 5D 2H
+: 5S 3H 5H 6H QH JD
+: QD 8S 9C 7S 8D TS
+: 2D KD 9D AH KS QC
+
+==
+Column 5 -> Column 7
+--------
+Foundations: H-0 C-0 D-0 S-3 
+Freecells:
+: 4H TC 4C TH AD 5C 2C
+: KC 7D 6S QS JH 3D
+: AC 4S 8C 4D KH 6C 7C
+: 7H JC TD 3C 6D
+: 8H 9S 9H JS 5D 2H
+: 5S 3H 5H 6H QH
+: QD 8S 9C 7S 8D TS
+: 2D KD 9D AH KS QC JD
+
+==
+Column 6 -> Column 7
+--------
+Foundations: H-0 C-0 D-0 S-3 
+Freecells:
+: 4H TC 4C TH AD 5C 2C
+: KC 7D 6S QS JH 3D
+: AC 4S 8C 4D KH 6C 7C
+: 7H JC TD 3C 6D
+: 8H 9S 9H JS 5D 2H
+: 5S 3H 5H 6H QH
+: QD 8S 9C 7S 8D
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 2 -> Column 6
+--------
+Foundations: H-0 C-0 D-0 S-3 
+Freecells:
+: 4H TC 4C TH AD 5C 2C
+: KC 7D 6S QS JH 3D
+: AC 4S 8C 4D KH 6C
+: 7H JC TD 3C 6D
+: 8H 9S 9H JS 5D 2H
+: 5S 3H 5H 6H QH
+: QD 8S 9C 7S 8D 7C
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 3 -> Column 6
+--------
+Foundations: H-0 C-0 D-0 S-3 
+Freecells:
+: 4H TC 4C TH AD 5C 2C
+: KC 7D 6S QS JH 3D
+: AC 4S 8C 4D KH 6C
+: 7H JC TD 3C
+: 8H 9S 9H JS 5D 2H
+: 5S 3H 5H 6H QH
+: QD 8S 9C 7S 8D 7C 6D
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 4 -> Column 3
+--------
+Foundations: H-0 C-0 D-0 S-3 
+Freecells:
+: 4H TC 4C TH AD 5C 2C
+: KC 7D 6S QS JH 3D
+: AC 4S 8C 4D KH 6C
+: 7H JC TD 3C 2H
+: 8H 9S 9H JS 5D
+: 5S 3H 5H 6H QH
+: QD 8S 9C 7S 8D 7C 6D
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 0 -> Column 1
+--------
+Foundations: H-0 C-0 D-0 S-3 
+Freecells:
+: 4H TC 4C TH AD 5C
+: KC 7D 6S QS JH 3D 2C
+: AC 4S 8C 4D KH 6C
+: 7H JC TD 3C 2H
+: 8H 9S 9H JS 5D
+: 5S 3H 5H 6H QH
+: QD 8S 9C 7S 8D 7C 6D
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 4 -> Column 2
+--------
+Foundations: H-0 C-0 D-0 S-3 
+Freecells:
+: 4H TC 4C TH AD 5C
+: KC 7D 6S QS JH 3D 2C
+: AC 4S 8C 4D KH 6C 5D
+: 7H JC TD 3C 2H
+: 8H 9S 9H JS
+: 5S 3H 5H 6H QH
+: QD 8S 9C 7S 8D 7C 6D
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 4 -> Column 5
+--------
+Foundations: H-0 C-0 D-0 S-3 
+Freecells:
+: 4H TC 4C TH AD 5C
+: KC 7D 6S QS JH 3D 2C
+: AC 4S 8C 4D KH 6C 5D
+: 7H JC TD 3C 2H
+: 8H 9S 9H
+: 5S 3H 5H 6H QH JS
+: QD 8S 9C 7S 8D 7C 6D
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 4 -> Column 7
+--------
+Foundations: H-0 C-0 D-0 S-3 
+Freecells:
+: 4H TC 4C TH AD 5C
+: KC 7D 6S QS JH 3D 2C
+: AC 4S 8C 4D KH 6C 5D
+: 7H JC TD 3C 2H
+: 8H 9S
+: 5S 3H 5H 6H QH JS
+: QD 8S 9C 7S 8D 7C 6D
+: 2D KD 9D AH KS QC JD TS 9H
+
+==
+Column 0 -> Column 6
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 4H TC 4C TH
+: KC 7D 6S QS JH 3D 2C
+: AC 4S 8C 4D KH 6C 5D
+: 7H JC TD 3C 2H
+: 8H 9S
+: 5S 3H 5H 6H QH JS
+: QD 8S 9C 7S 8D 7C 6D 5C
+: 2D KD 9D AH KS QC JD TS 9H
+
+==
+Column 0 -> Column 5
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 4H TC 4C
+: KC 7D 6S QS JH 3D 2C
+: AC 4S 8C 4D KH 6C 5D
+: 7H JC TD 3C 2H
+: 8H 9S
+: 5S 3H 5H 6H QH JS TH
+: QD 8S 9C 7S 8D 7C 6D 5C
+: 2D KD 9D AH KS QC JD TS 9H
+
+==
+Column 0 -> Column 2
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 4H TC
+: KC 7D 6S QS JH 3D 2C
+: AC 4S 8C 4D KH 6C 5D 4C
+: 7H JC TD 3C 2H
+: 8H 9S
+: 5S 3H 5H 6H QH JS TH
+: QD 8S 9C 7S 8D 7C 6D 5C
+: 2D KD 9D AH KS QC JD TS 9H
+
+==
+Column 4 -> Column 5
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 4H TC
+: KC 7D 6S QS JH 3D 2C
+: AC 4S 8C 4D KH 6C 5D 4C
+: 7H JC TD 3C 2H
+: 8H
+: 5S 3H 5H 6H QH JS TH 9S
+: QD 8S 9C 7S 8D 7C 6D 5C
+: 2D KD 9D AH KS QC JD TS 9H
+
+==
+Column 4 -> Column 5
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 4H TC
+: KC 7D 6S QS JH 3D 2C
+: AC 4S 8C 4D KH 6C 5D 4C
+: 7H JC TD 3C 2H
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H
+: QD 8S 9C 7S 8D 7C 6D 5C
+: 2D KD 9D AH KS QC JD TS 9H
+
+==
+Column 1 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 4H TC
+: KC 7D 6S QS JH 3D
+: AC 4S 8C 4D KH 6C 5D 4C
+: 7H JC TD 3C 2H
+: 2C
+: 5S 3H 5H 6H QH JS TH 9S 8H
+: QD 8S 9C 7S 8D 7C 6D 5C
+: 2D KD 9D AH KS QC JD TS 9H
+
+==
+Column 1 -> Column 2
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 4H TC
+: KC 7D 6S QS JH
+: AC 4S 8C 4D KH 6C 5D 4C 3D
+: 7H JC TD 3C 2H
+: 2C
+: 5S 3H 5H 6H QH JS TH 9S 8H
+: QD 8S 9C 7S 8D 7C 6D 5C
+: 2D KD 9D AH KS QC JD TS 9H
+
+==
+Column 0 -> Column 1
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 4H
+: KC 7D 6S QS JH TC
+: AC 4S 8C 4D KH 6C 5D 4C 3D
+: 7H JC TD 3C 2H
+: 2C
+: 5S 3H 5H 6H QH JS TH 9S 8H
+: QD 8S 9C 7S 8D 7C 6D 5C
+: 2D KD 9D AH KS QC JD TS 9H
+
+==
+Column 7 -> Column 1
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 4H
+: KC 7D 6S QS JH TC 9H
+: AC 4S 8C 4D KH 6C 5D 4C 3D
+: 7H JC TD 3C 2H
+: 2C
+: 5S 3H 5H 6H QH JS TH 9S 8H
+: QD 8S 9C 7S 8D 7C 6D 5C
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 4 -> Column 2
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 4H
+: KC 7D 6S QS JH TC 9H
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 7H JC TD 3C 2H
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H
+: QD 8S 9C 7S 8D 7C 6D 5C
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 6 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 4H
+: KC 7D 6S QS JH TC 9H
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 7H JC TD 3C 2H
+: 5C
+: 5S 3H 5H 6H QH JS TH 9S 8H
+: QD 8S 9C 7S 8D 7C 6D
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 0 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 5C 4H
+: KC 7D 6S QS JH TC 9H
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 7H JC TD 3C 2H
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H
+: QD 8S 9C 7S 8D 7C 6D
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 6 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 6D
+: KC 7D 6S QS JH TC 9H
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 7H JC TD 3C 2H
+: 5C 4H
+: 5S 3H 5H 6H QH JS TH 9S 8H
+: QD 8S 9C 7S 8D 7C
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 6 -> Column 5
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 6D
+: KC 7D 6S QS JH TC 9H
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 7H JC TD 3C 2H
+: 5C 4H
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C
+: QD 8S 9C 7S 8D
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 0 -> Column 5
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 5C 4H
+: KC 7D 6S QS JH TC 9H
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 7H JC TD 3C 2H
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D
+: QD 8S 9C 7S 8D
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 0 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 4H
+: KC 7D 6S QS JH TC 9H
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 7H JC TD 3C 2H
+: 5C
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D
+: QD 8S 9C 7S 8D
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 4 -> Column 5
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 4H
+: KC 7D 6S QS JH TC 9H
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 7H JC TD 3C 2H
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C
+: QD 8S 9C 7S 8D
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 3 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 4H
+: KC 7D 6S QS JH TC 9H
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 7H JC TD 3C
+: 2H
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C
+: QD 8S 9C 7S 8D
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 0 -> Column 5
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 2H
+: KC 7D 6S QS JH TC 9H
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 7H JC TD 3C
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H
+: QD 8S 9C 7S 8D
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 6 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 8D
+: KC 7D 6S QS JH TC 9H
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 7H JC TD 3C
+: 2H
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H
+: QD 8S 9C 7S
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 3 -> Column 5
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 8D
+: KC 7D 6S QS JH TC 9H
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 7H JC TD
+: 2H
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C
+: QD 8S 9C 7S
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 4 -> Column 5
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 8D
+: KC 7D 6S QS JH TC 9H
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 7H JC TD
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD 8S 9C 7S
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 3 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: TD
+: KC 7D 6S QS JH TC 9H
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 7H JC
+: 8D
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD 8S 9C 7S
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 6 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: TD
+: KC 7D 6S QS JH TC 9H
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 7H JC
+: 8D 7S
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD 8S 9C
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 6 -> Column 0
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: TD 9C
+: KC 7D 6S QS JH TC 9H
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 7H JC
+: 8D 7S
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD 8S
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 6 -> Column 1
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: TD 9C
+: KC 7D 6S QS JH TC 9H 8S
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 7H JC
+: 8D 7S
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 3 -> Column 6
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: TD 9C
+: KC 7D 6S QS JH TC 9H 8S
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 7H
+: 8D 7S
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 3 -> Column 1
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: TD 9C
+: KC 7D 6S QS JH TC 9H 8S 7H
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 8D 7S
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 0 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: TD
+: KC 7D 6S QS JH TC 9H 8S 7H
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 9C
+: 8D 7S
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 0 -> Column 6
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 9C
+: KC 7D 6S QS JH TC 9H 8S 7H
+: AC 4S 8C 4D KH 6C 5D 4C 3D 2C
+: 8D 7S
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 2 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 9C
+: KC 7D 6S QS JH TC 9H 8S 7H
+: AC 4S 8C 4D KH 6C 5D 4C 3D
+: 8D 7S
+: 2C
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 0 -> Column 6
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 8D 7S
+: KC 7D 6S QS JH TC 9H 8S 7H
+: AC 4S 8C 4D KH 6C 5D 4C 3D
+: 2C
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD 9C
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 0 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 8D
+: KC 7D 6S QS JH TC 9H 8S 7H
+: AC 4S 8C 4D KH 6C 5D 4C 3D
+: 7S
+: 2C
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD 9C
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 0 -> Column 6
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 7S
+: KC 7D 6S QS JH TC 9H 8S 7H
+: AC 4S 8C 4D KH 6C 5D 4C 3D
+: 2C
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD 9C 8D
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 2 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 7S
+: KC 7D 6S QS JH TC 9H 8S 7H
+: AC 4S 8C 4D KH 6C 5D 4C
+: 3D
+: 2C
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD 9C 8D
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 0 -> Column 6
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 3D
+: KC 7D 6S QS JH TC 9H 8S 7H
+: AC 4S 8C 4D KH 6C 5D 4C
+: 2C
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD 9C 8D 7S
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 2 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 4C
+: KC 7D 6S QS JH TC 9H 8S 7H
+: AC 4S 8C 4D KH 6C 5D
+: 3D
+: 2C
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD 9C 8D 7S
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 4 -> Column 3
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 4C
+: KC 7D 6S QS JH TC 9H 8S 7H
+: AC 4S 8C 4D KH 6C 5D
+: 3D 2C
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD 9C 8D 7S
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 2 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 5D
+: KC 7D 6S QS JH TC 9H 8S 7H
+: AC 4S 8C 4D KH 6C
+: 4C
+: 3D 2C
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD 9C 8D 7S
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 2 -> Column 1
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 5D
+: KC 7D 6S QS JH TC 9H 8S 7H 6C
+: AC 4S 8C 4D KH
+: 4C
+: 3D 2C
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD 9C 8D 7S
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 0 -> Column 1
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 4C
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D
+: AC 4S 8C 4D KH
+: 3D 2C
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD 9C 8D 7S
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 6 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 7S
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D
+: AC 4S 8C 4D KH
+: 4C
+: 3D 2C
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD 9C 8D
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 3 -> Column 1
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 7S
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C
+: AC 4S 8C 4D KH
+: 3D 2C
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD 9C 8D
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 3 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 7S
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C
+: AC 4S 8C 4D KH
+: 3D
+: 2C
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD 9C 8D
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 3 -> Column 1
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 7S
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D
+: AC 4S 8C 4D KH
+: 2C
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD 9C 8D
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 6 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 8D
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D
+: AC 4S 8C 4D KH
+: 7S
+: 2C
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD 9C
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 4 -> Column 1
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 8D
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH
+: 7S
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD 9C
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 6 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 9C
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH
+: 8D
+: 7S
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 3 -> Column 0
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: 9C 8D
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH
+: 7S
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD
+: 2D KD 9D AH KS QC JD TS
+
+==
+Column 7 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: TS
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH
+: 9C 8D
+: 7S
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD
+: 2D KD 9D AH KS QC JD
+
+==
+Column 4 -> Column 3
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: TS
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH
+: 9C 8D 7S
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD
+: 2D KD 9D AH KS QC JD
+
+==
+Column 7 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: JD
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH
+: TS
+: 9C 8D 7S
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD
+: 2D KD 9D AH KS QC
+
+==
+Column 7 -> Column 2
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: JD
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH QC
+: TS
+: 9C 8D 7S
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD
+: 2D KD 9D AH KS
+
+==
+Column 0 -> Column 2
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: TS
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH QC JD
+: 9C 8D 7S
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC TD
+: 2D KD 9D AH KS
+
+==
+Column 6 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: TS
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH QC JD
+: TD
+: 9C 8D 7S
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC
+: 2D KD 9D AH KS
+
+==
+Column 0 -> Column 2
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: TD
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH QC JD TS
+: 9C 8D 7S
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD JC
+: 2D KD 9D AH KS
+
+==
+Column 6 -> Column 4
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: JC
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH QC JD TS
+: TD
+: 9C 8D 7S
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD
+: 2D KD 9D AH KS
+
+==
+Column 3 -> Column 0
+--------
+Foundations: H-0 C-0 D-A S-3 
+Freecells:
+: JC TD
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH QC JD TS
+: 9C 8D 7S
+: 
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C 2H
+: QD
+: 2D KD 9D AH KS
+
+==
+Column 7 -> Column 4
+--------
+Foundations: H-2 C-0 D-A S-3 
+Freecells:
+: KS
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH QC JD TS
+: JC TD
+: 9C 8D 7S
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C
+: QD
+: 2D KD 9D
+
+==
+Column 6 -> Column 0
+--------
+Foundations: H-2 C-0 D-A S-3 
+Freecells:
+: KS QD
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH QC JD TS
+: JC TD
+: 9C 8D 7S
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C
+: 
+: 2D KD 9D
+
+==
+Column 3 -> Column 6
+--------
+Foundations: H-2 C-0 D-A S-3 
+Freecells:
+: KS QD
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH QC JD TS
+: JC
+: TD
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C
+: 9C 8D 7S
+: 2D KD 9D
+
+==
+Column 3 -> Column 0
+--------
+Foundations: H-2 C-0 D-A S-3 
+Freecells:
+: KS QD JC
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH QC JD TS
+: TD
+: 9C 8D 7S
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C
+: 
+: 2D KD 9D
+
+==
+Column 2 -> Column 6
+--------
+Foundations: H-2 C-0 D-A S-3 
+Freecells:
+: KS QD JC
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH QC JD
+: TS
+: TD
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C
+: 9C 8D 7S
+: 2D KD 9D
+
+==
+Column 7 -> Column 3
+--------
+Foundations: H-2 C-0 D-A S-3 
+Freecells:
+: KS QD JC
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH QC JD
+: TS 9D
+: TD
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C
+: 9C 8D 7S
+: 2D KD
+
+==
+Column 4 -> Column 0
+--------
+Foundations: H-2 C-0 D-A S-3 
+Freecells:
+: KS QD JC TD
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH QC JD
+: TS 9D
+: 9C 8D 7S
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C
+: 
+: 2D KD
+
+==
+Column 7 -> Column 6
+--------
+Foundations: H-2 C-0 D-2 S-3 
+Freecells:
+: KS QD JC TD
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH QC JD
+: KD
+: TS 9D
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C
+: 9C 8D 7S
+: 
+
+==
+Column 2 -> Column 7
+--------
+Foundations: H-2 C-0 D-2 S-3 
+Freecells:
+: KS QD JC TD
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH QC
+: KD
+: JD
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C
+: TS 9D
+: 9C 8D 7S
+
+==
+Column 2 -> Column 3
+--------
+Foundations: H-2 C-0 D-2 S-3 
+Freecells:
+: KS QD JC TD
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH
+: KD QC
+: JD
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C
+: TS 9D
+: 9C 8D 7S
+
+==
+Column 4 -> Column 3
+--------
+Foundations: H-2 C-0 D-2 S-3 
+Freecells:
+: KS QD JC TD
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH
+: KD QC JD
+: TS 9D
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C
+: 9C 8D 7S
+: 
+
+==
+Column 4 -> Column 7
+--------
+Foundations: H-2 C-0 D-2 S-3 
+Freecells:
+: KS QD JC TD
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH
+: KD QC JD
+: TS
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C
+: 9D
+: 9C 8D 7S
+
+==
+Column 4 -> Column 3
+--------
+Foundations: H-2 C-0 D-2 S-3 
+Freecells:
+: KS QD JC TD
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D KH
+: KD QC JD TS
+: 9D
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C
+: 9C 8D 7S
+: 
+
+==
+Column 2 -> Column 7
+--------
+Foundations: H-2 C-0 D-2 S-3 
+Freecells:
+: KS QD JC TD
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D
+: KD QC JD TS
+: KH
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C
+: 9D
+: 9C 8D 7S
+
+==
+Column 6 -> Column 3
+--------
+Foundations: H-2 C-0 D-2 S-3 
+Freecells:
+: KS QD JC TD
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C 4D
+: KD QC JD TS 9D
+: KH
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C
+: 9C 8D 7S
+: 
+
+==
+Column 2 -> Column 7
+--------
+Foundations: H-2 C-0 D-2 S-3 
+Freecells:
+: KS QD JC TD
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S 8C
+: KD QC JD TS 9D
+: KH
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C
+: 9C 8D 7S
+: 4D
+
+==
+Column 2 -> Column 3
+--------
+Foundations: H-2 C-0 D-2 S-3 
+Freecells:
+: KS QD JC TD
+: KC 7D 6S QS JH TC 9H 8S 7H 6C 5D 4C 3D 2C
+: AC 4S
+: KD QC JD TS 9D 8C
+: KH
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H 3C
+: 9C 8D 7S
+: 4D
+
+==
+Column 2 -> Foundation 3
+--------
+Foundations: H-2 C-4 D-5 S-4 
+Freecells:
+: KS QD JC TD
+: KC 7D 6S QS JH TC 9H 8S 7H 6C
+: KD QC JD TS 9D 8C
+: KH
+: 9C 8D 7S
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C 4H
+: 
+: 
+
+==
+Column 5 -> Column 7
+--------
+Foundations: H-2 C-4 D-5 S-4 
+Freecells:
+: 4H
+: KC 7D 6S QS JH TC 9H 8S 7H 6C
+: KS QD JC TD
+: KD QC JD TS 9D 8C
+: KH
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D 5C
+: 9C 8D 7S
+: 
+
+==
+Column 5 -> Column 7
+--------
+Foundations: H-2 C-4 D-5 S-4 
+Freecells:
+: 4H
+: KC 7D 6S QS JH TC 9H 8S 7H 6C
+: KS QD JC TD
+: KD QC JD TS 9D 8C
+: KH
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C 6D
+: 9C 8D 7S
+: 5C
+
+==
+Column 5 -> Column 6
+--------
+Foundations: H-2 C-4 D-5 S-4 
+Freecells:
+: 4H
+: KC 7D 6S QS JH TC 9H 8S 7H 6C
+: KS QD JC TD
+: KD QC JD TS 9D 8C
+: KH
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C
+: 9C 8D 7S 6D
+: 5C
+
+==
+Column 7 -> Column 6
+--------
+Foundations: H-2 C-4 D-5 S-4 
+Freecells:
+: 4H
+: KC 7D 6S QS JH TC 9H 8S 7H 6C
+: KS QD JC TD
+: KD QC JD TS 9D 8C
+: KH
+: 5S 3H 5H 6H QH JS TH 9S 8H 7C
+: 9C 8D 7S 6D 5C
+: 
+
+==
+Column 5 -> Column 7
+--------
+Foundations: H-2 C-4 D-5 S-4 
+Freecells:
+: 4H
+: KC 7D 6S QS JH TC 9H 8S 7H 6C
+: KS QD JC TD
+: KD QC JD TS 9D 8C
+: KH
+: 5S 3H 5H 6H QH JS TH 9S 8H
+: 9C 8D 7S 6D 5C
+: 7C
+
+==
+Column 0 -> Column 6
+--------
+Foundations: H-2 C-4 D-5 S-4 
+Freecells:
+: KS QD JC TD
+: KC 7D 6S QS JH TC 9H 8S 7H 6C
+: KD QC JD TS 9D 8C
+: KH
+: 9C 8D 7S 6D 5C 4H
+: 5S 3H 5H 6H QH JS TH 9S 8H
+: 7C
+: 
+
+==
+Column 5 -> Column 7
+--------
+Foundations: H-2 C-4 D-5 S-4 
+Freecells:
+: KS QD JC TD
+: KC 7D 6S QS JH TC 9H 8S 7H 6C
+: KD QC JD TS 9D 8C
+: KH
+: 8H
+: 5S 3H 5H 6H QH JS TH 9S
+: 9C 8D 7S 6D 5C 4H
+: 7C
+
+==
+Column 5 -> Column 0
+--------
+Foundations: H-2 C-4 D-5 S-4 
+Freecells:
+: KS QD JC TD 9S
+: KC 7D 6S QS JH TC 9H 8S 7H 6C
+: KD QC JD TS 9D 8C
+: KH
+: 8H
+: 5S 3H 5H 6H QH JS TH
+: 9C 8D 7S 6D 5C 4H
+: 7C
+
+==
+Column 4 -> Column 0
+--------
+Foundations: H-2 C-4 D-5 S-4 
+Freecells:
+: KS QD JC TD 9S 8H
+: KC 7D 6S QS JH TC 9H 8S 7H 6C
+: KD QC JD TS 9D 8C
+: KH
+: 9C 8D 7S 6D 5C 4H
+: 5S 3H 5H 6H QH JS TH
+: 7C
+: 
+
+==
+Column 5 -> Column 7
+--------
+Foundations: H-2 C-4 D-5 S-4 
+Freecells:
+: KS QD JC TD 9S 8H
+: KC 7D 6S QS JH TC 9H 8S 7H 6C
+: KD QC JD TS 9D 8C
+: KH
+: TH
+: 5S 3H 5H 6H QH JS
+: 9C 8D 7S 6D 5C 4H
+: 7C
+
+==
+Column 7 -> Column 0
+--------
+Foundations: H-2 C-4 D-5 S-4 
+Freecells:
+: KS QD JC TD 9S 8H 7C
+: KC 7D 6S QS JH TC 9H 8S 7H 6C
+: KD QC JD TS 9D 8C
+: KH
+: TH
+: 5S 3H 5H 6H QH JS
+: 9C 8D 7S 6D 5C 4H
+: 
+
+==
+Column 5 -> Column 7
+--------
+Foundations: H-2 C-4 D-5 S-4 
+Freecells:
+: KS QD JC TD 9S 8H 7C
+: KC 7D 6S QS JH TC 9H 8S 7H 6C
+: KD QC JD TS 9D 8C
+: KH
+: JS
+: 5S 3H 5H 6H QH
+: TH
+: 9C 8D 7S 6D 5C 4H
+
+==
+Column 6 -> Column 4
+--------
+Foundations: H-2 C-4 D-5 S-4 
+Freecells:
+: KS QD JC TD 9S 8H 7C
+: KC 7D 6S QS JH TC 9H 8S 7H 6C
+: KD QC JD TS 9D 8C
+: KH
+: JS TH
+: 5S 3H 5H 6H QH
+: 9C 8D 7S 6D 5C 4H
+: 
+
+==
+Column 5 -> Column 7
+--------
+Foundations: H-2 C-4 D-5 S-4 
+Freecells:
+: KS QD JC TD 9S 8H 7C
+: KC 7D 6S QS JH TC 9H 8S 7H 6C
+: KD QC JD TS 9D 8C
+: KH
+: QH
+: 5S 3H 5H 6H
+: JS TH
+: 9C 8D 7S 6D 5C 4H
+
+==
+Column 5 -> Column 0
+--------
+Foundations: H-2 C-4 D-5 S-4 
+Freecells:
+: KS QD JC TD 9S 8H 7C 6H
+: KC 7D 6S QS JH TC 9H 8S 7H 6C
+: KD QC JD TS 9D 8C
+: KH
+: QH
+: 5S 3H 5H
+: JS TH
+: 9C 8D 7S 6D 5C 4H
+
+==
+Column 5 -> Column 1
+--------
+Foundations: H-7 C-8 D-6 S-5 
+Freecells:
+: KS QD JC TD 9S 8H
+: KC 7D 6S QS JH TC 9H 8S
+: KD QC JD TS 9D
+: KH
+: QH
+: JS TH
+: 9C 8D 7S
+: 
+
+==
+Column 0 -> Foundation 0
+--------
+Foundations: H-8 C-8 D-6 S-5 
+Freecells:
+: KS QD JC TD 9S
+: KC 7D 6S QS JH TC 9H 8S
+: KD QC JD TS 9D
+: KH
+: QH
+: JS TH
+: 9C 8D 7S
+: 
+
+==
+Column 1 -> Column 2
+--------
+Foundations: H-8 C-8 D-6 S-5 
+Freecells:
+: KS QD JC TD 9S
+: KC 7D 6S QS JH TC 9H
+: KD QC JD TS 9D 8S
+: KH
+: QH
+: JS TH
+: 9C 8D 7S
+: 
+
+==
+Column 1 -> Foundation 0
+--------
+Foundations: H-9 C-8 D-6 S-5 
+Freecells:
+: KS QD JC TD 9S
+: KC 7D 6S QS JH TC
+: KD QC JD TS 9D 8S
+: KH
+: QH
+: JS TH
+: 9C 8D 7S
+: 
+
+==
+Column 1 -> Column 7
+--------
+Foundations: H-9 C-8 D-6 S-5 
+Freecells:
+: KS QD JC TD 9S
+: KC 7D 6S QS JH
+: KD QC JD TS 9D 8S
+: KH
+: QH
+: JS TH
+: TC
+: 9C 8D 7S
+
+==
+Column 5 -> Foundation 0
+--------
+Foundations: H-T C-8 D-6 S-5 
+Freecells:
+: KS QD JC TD 9S
+: KC 7D 6S QS JH
+: KD QC JD TS 9D 8S
+: KH
+: QH
+: JS
+: TC
+: 9C 8D 7S
+
+==
+Column 1 -> Foundation 0
+--------
+Foundations: H-J C-8 D-6 S-5 
+Freecells:
+: KS QD JC TD 9S
+: KC 7D 6S QS
+: KD QC JD TS 9D 8S
+: KH
+: QH
+: JS
+: TC
+: 9C 8D 7S
+
+==
+Column 1 -> Column 3
+--------
+Foundations: H-K C-K D-K S-K 
+Freecells:
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+
+==
+END
+handle_and_destroy_instance_solution end

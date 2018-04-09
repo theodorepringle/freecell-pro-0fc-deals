@@ -1,0 +1,41 @@
+instance_run_all_threads start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+Reached 100000 ; States-in-collection: 123532 ; Time: 1486066182.018380
+>>>Queue Stats: inserted=123532 items_in_queue=23532 extracted=100000
+Reached 200000 ; States-in-collection: 233698 ; Time: 1486066184.983734
+>>>Queue Stats: inserted=233698 items_in_queue=33698 extracted=200000
+Reached 300000 ; States-in-collection: 340423 ; Time: 1486066188.103238
+>>>Queue Stats: inserted=340423 items_in_queue=40423 extracted=300000
+Reached 400000 ; States-in-collection: 444577 ; Time: 1486066190.475132
+>>>Queue Stats: inserted=444577 items_in_queue=44577 extracted=400000
+Reached 500000 ; States-in-collection: 547972 ; Time: 1486066192.534222
+>>>Queue Stats: inserted=547972 items_in_queue=47972 extracted=500000
+Reached 600000 ; States-in-collection: 647465 ; Time: 1486066194.427339
+>>>Queue Stats: inserted=647465 items_in_queue=47465 extracted=600000
+Reached 700000 ; States-in-collection: 741996 ; Time: 1486066196.554460
+>>>Queue Stats: inserted=741996 items_in_queue=41996 extracted=700000
+Reached 800000 ; States-in-collection: 828730 ; Time: 1486066198.512185
+>>>Queue Stats: inserted=828730 items_in_queue=28730 extracted=800000
+Reached 900000 ; States-in-collection: 900792 ; Time: 1486066200.340894
+>>>Queue Stats: inserted=900792 items_in_queue=792 extracted=900000
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 901403 ; States-in-collection: 901403 ; Time: 1486066200.367134
+>>>Queue Stats: inserted=901403 items_in_queue=0 extracted=901403
+Could not solve successfully.
+handle_and_destroy_instance_solution end

@@ -1,0 +1,67 @@
+instance_run_all_threads start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+Reached 100000 ; States-in-collection: 112752 ; Time: 1485714981.163289
+>>>Queue Stats: inserted=112752 items_in_queue=12752 extracted=100000
+Reached 200000 ; States-in-collection: 213930 ; Time: 1485714983.461096
+>>>Queue Stats: inserted=213930 items_in_queue=13930 extracted=200000
+Reached 300000 ; States-in-collection: 317919 ; Time: 1485714985.409551
+>>>Queue Stats: inserted=317919 items_in_queue=17919 extracted=300000
+Reached 400000 ; States-in-collection: 430674 ; Time: 1485714987.584893
+>>>Queue Stats: inserted=430674 items_in_queue=30674 extracted=400000
+Reached 500000 ; States-in-collection: 555688 ; Time: 1485714990.920926
+>>>Queue Stats: inserted=555688 items_in_queue=55688 extracted=500000
+Reached 600000 ; States-in-collection: 677611 ; Time: 1485714993.623349
+>>>Queue Stats: inserted=677611 items_in_queue=77611 extracted=600000
+Reached 700000 ; States-in-collection: 795011 ; Time: 1485714996.342408
+>>>Queue Stats: inserted=795011 items_in_queue=95011 extracted=700000
+Reached 800000 ; States-in-collection: 908654 ; Time: 1485714999.575493
+>>>Queue Stats: inserted=908654 items_in_queue=108654 extracted=800000
+Reached 900000 ; States-in-collection: 1020284 ; Time: 1485715001.707716
+>>>Queue Stats: inserted=1020284 items_in_queue=120284 extracted=900000
+Reached 1000000 ; States-in-collection: 1129491 ; Time: 1485715003.967639
+>>>Queue Stats: inserted=1129491 items_in_queue=129491 extracted=1000000
+Reached 1100000 ; States-in-collection: 1234609 ; Time: 1485715006.911402
+>>>Queue Stats: inserted=1234609 items_in_queue=134609 extracted=1100000
+Reached 1200000 ; States-in-collection: 1339513 ; Time: 1485715009.057823
+>>>Queue Stats: inserted=1339513 items_in_queue=139513 extracted=1200000
+Reached 1300000 ; States-in-collection: 1439331 ; Time: 1485715011.195312
+>>>Queue Stats: inserted=1439331 items_in_queue=139331 extracted=1300000
+Reached 1400000 ; States-in-collection: 1539237 ; Time: 1485715014.461498
+>>>Queue Stats: inserted=1539237 items_in_queue=139237 extracted=1400000
+Reached 1500000 ; States-in-collection: 1635520 ; Time: 1485715016.777919
+>>>Queue Stats: inserted=1635520 items_in_queue=135520 extracted=1500000
+Reached 1600000 ; States-in-collection: 1729358 ; Time: 1485715018.760592
+>>>Queue Stats: inserted=1729358 items_in_queue=129358 extracted=1600000
+Reached 1700000 ; States-in-collection: 1820231 ; Time: 1485715020.645673
+>>>Queue Stats: inserted=1820231 items_in_queue=120231 extracted=1700000
+Reached 1800000 ; States-in-collection: 1908388 ; Time: 1485715022.372681
+>>>Queue Stats: inserted=1908388 items_in_queue=108388 extracted=1800000
+Reached 1900000 ; States-in-collection: 1993642 ; Time: 1485715024.280271
+>>>Queue Stats: inserted=1993642 items_in_queue=93642 extracted=1900000
+Reached 2000000 ; States-in-collection: 2074569 ; Time: 1485715026.232543
+>>>Queue Stats: inserted=2074569 items_in_queue=74569 extracted=2000000
+Reached 2100000 ; States-in-collection: 2151427 ; Time: 1485715028.124728
+>>>Queue Stats: inserted=2151427 items_in_queue=51427 extracted=2100000
+Reached 2200000 ; States-in-collection: 2224479 ; Time: 1485715029.947509
+>>>Queue Stats: inserted=2224479 items_in_queue=24479 extracted=2200000
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2260154 ; States-in-collection: 2260154 ; Time: 1485715030.942157
+>>>Queue Stats: inserted=2260154 items_in_queue=0 extracted=2260154
+Could not solve successfully.
+handle_and_destroy_instance_solution end

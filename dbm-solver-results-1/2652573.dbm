@@ -1,0 +1,51 @@
+instance_run_all_threads start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+Reached 100000 ; States-in-collection: 120756 ; Time: 1485814729.400811
+>>>Queue Stats: inserted=120756 items_in_queue=20756 extracted=100000
+Reached 200000 ; States-in-collection: 224540 ; Time: 1485814731.400759
+>>>Queue Stats: inserted=224540 items_in_queue=24540 extracted=200000
+Reached 300000 ; States-in-collection: 317109 ; Time: 1485814732.900937
+>>>Queue Stats: inserted=317109 items_in_queue=17109 extracted=300000
+Reached 400000 ; States-in-collection: 430778 ; Time: 1485814734.535687
+>>>Queue Stats: inserted=430778 items_in_queue=30778 extracted=400000
+Reached 500000 ; States-in-collection: 536559 ; Time: 1485814736.468026
+>>>Queue Stats: inserted=536559 items_in_queue=36559 extracted=500000
+Reached 600000 ; States-in-collection: 636656 ; Time: 1485814738.741750
+>>>Queue Stats: inserted=636656 items_in_queue=36656 extracted=600000
+Reached 700000 ; States-in-collection: 733757 ; Time: 1485814740.584439
+>>>Queue Stats: inserted=733757 items_in_queue=33757 extracted=700000
+Reached 800000 ; States-in-collection: 827590 ; Time: 1485814742.282822
+>>>Queue Stats: inserted=827590 items_in_queue=27590 extracted=800000
+Reached 900000 ; States-in-collection: 929444 ; Time: 1485814744.299429
+>>>Queue Stats: inserted=929444 items_in_queue=29444 extracted=900000
+Reached 1000000 ; States-in-collection: 1031135 ; Time: 1485814746.645731
+>>>Queue Stats: inserted=1031135 items_in_queue=31135 extracted=1000000
+Reached 1100000 ; States-in-collection: 1126878 ; Time: 1485814748.552739
+>>>Queue Stats: inserted=1126878 items_in_queue=26878 extracted=1100000
+Reached 1200000 ; States-in-collection: 1222848 ; Time: 1485814750.262282
+>>>Queue Stats: inserted=1222848 items_in_queue=22848 extracted=1200000
+Reached 1300000 ; States-in-collection: 1316000 ; Time: 1485814752.226807
+>>>Queue Stats: inserted=1316000 items_in_queue=16000 extracted=1300000
+Reached 1400000 ; States-in-collection: 1411597 ; Time: 1485814754.596211
+>>>Queue Stats: inserted=1411597 items_in_queue=11597 extracted=1400000
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 1446395 ; States-in-collection: 1446395 ; Time: 1485814755.489260
+>>>Queue Stats: inserted=1446395 items_in_queue=0 extracted=1446395
+Could not solve successfully.
+handle_and_destroy_instance_solution end

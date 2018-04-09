@@ -1,0 +1,67 @@
+instance_run_all_threads start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+Reached 100000 ; States-in-collection: 111134 ; Time: 1485930578.434444
+>>>Queue Stats: inserted=111134 items_in_queue=11134 extracted=100000
+Reached 200000 ; States-in-collection: 227628 ; Time: 1485930579.720239
+>>>Queue Stats: inserted=227628 items_in_queue=27628 extracted=200000
+Reached 300000 ; States-in-collection: 338432 ; Time: 1485930581.306453
+>>>Queue Stats: inserted=338432 items_in_queue=38432 extracted=300000
+Reached 400000 ; States-in-collection: 449843 ; Time: 1485930582.900939
+>>>Queue Stats: inserted=449843 items_in_queue=49843 extracted=400000
+Reached 500000 ; States-in-collection: 563450 ; Time: 1485930585.046311
+>>>Queue Stats: inserted=563450 items_in_queue=63450 extracted=500000
+Reached 600000 ; States-in-collection: 677253 ; Time: 1485930587.765367
+>>>Queue Stats: inserted=677253 items_in_queue=77253 extracted=600000
+Reached 700000 ; States-in-collection: 787894 ; Time: 1485930590.125081
+>>>Queue Stats: inserted=787894 items_in_queue=87894 extracted=700000
+Reached 800000 ; States-in-collection: 894891 ; Time: 1485930592.292439
+>>>Queue Stats: inserted=894891 items_in_queue=94891 extracted=800000
+Reached 900000 ; States-in-collection: 999271 ; Time: 1485930594.028806
+>>>Queue Stats: inserted=999271 items_in_queue=99271 extracted=900000
+Reached 1000000 ; States-in-collection: 1103217 ; Time: 1485930595.793483
+>>>Queue Stats: inserted=1103217 items_in_queue=103217 extracted=1000000
+Reached 1100000 ; States-in-collection: 1208236 ; Time: 1485930597.338919
+>>>Queue Stats: inserted=1208236 items_in_queue=108236 extracted=1100000
+Reached 1200000 ; States-in-collection: 1310231 ; Time: 1485930598.882618
+>>>Queue Stats: inserted=1310231 items_in_queue=110231 extracted=1200000
+Reached 1300000 ; States-in-collection: 1414945 ; Time: 1485930600.552115
+>>>Queue Stats: inserted=1414945 items_in_queue=114945 extracted=1300000
+Reached 1400000 ; States-in-collection: 1517521 ; Time: 1485930602.477903
+>>>Queue Stats: inserted=1517521 items_in_queue=117521 extracted=1400000
+Reached 1500000 ; States-in-collection: 1617731 ; Time: 1485930604.278930
+>>>Queue Stats: inserted=1617731 items_in_queue=117731 extracted=1500000
+Reached 1600000 ; States-in-collection: 1718255 ; Time: 1485930605.858309
+>>>Queue Stats: inserted=1718255 items_in_queue=118255 extracted=1600000
+Reached 1700000 ; States-in-collection: 1814668 ; Time: 1485930607.455251
+>>>Queue Stats: inserted=1814668 items_in_queue=114668 extracted=1700000
+Reached 1800000 ; States-in-collection: 1913932 ; Time: 1485930609.284328
+>>>Queue Stats: inserted=1913932 items_in_queue=113932 extracted=1800000
+Reached 1900000 ; States-in-collection: 2004144 ; Time: 1485930611.128997
+>>>Queue Stats: inserted=2004144 items_in_queue=104144 extracted=1900000
+Reached 2000000 ; States-in-collection: 2089869 ; Time: 1485930613.534941
+>>>Queue Stats: inserted=2089869 items_in_queue=89869 extracted=2000000
+Reached 2100000 ; States-in-collection: 2167275 ; Time: 1485930616.090785
+>>>Queue Stats: inserted=2167275 items_in_queue=67275 extracted=2100000
+Reached 2200000 ; States-in-collection: 2232135 ; Time: 1485930618.326243
+>>>Queue Stats: inserted=2232135 items_in_queue=32135 extracted=2200000
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2260691 ; States-in-collection: 2260691 ; Time: 1485930619.516975
+>>>Queue Stats: inserted=2260691 items_in_queue=0 extracted=2260691
+Could not solve successfully.
+handle_and_destroy_instance_solution end
