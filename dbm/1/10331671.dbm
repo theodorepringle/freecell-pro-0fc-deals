@@ -1,0 +1,63 @@
+instance_run_all_threads start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+Reached 100000 ; States-in-collection: 112251 ; Time: 1550409355.762443
+>>>Queue Stats: inserted=112251 items_in_queue=12251 extracted=100000
+Reached 200000 ; States-in-collection: 233518 ; Time: 1550409356.085070
+>>>Queue Stats: inserted=233518 items_in_queue=33518 extracted=200000
+Reached 300000 ; States-in-collection: 355098 ; Time: 1550409356.449161
+>>>Queue Stats: inserted=355098 items_in_queue=55098 extracted=300000
+Reached 400000 ; States-in-collection: 469136 ; Time: 1550409356.827105
+>>>Queue Stats: inserted=469136 items_in_queue=69136 extracted=400000
+Reached 500000 ; States-in-collection: 581688 ; Time: 1550409357.218649
+>>>Queue Stats: inserted=581688 items_in_queue=81688 extracted=500000
+Reached 600000 ; States-in-collection: 688954 ; Time: 1550409357.636695
+>>>Queue Stats: inserted=688954 items_in_queue=88954 extracted=600000
+Reached 700000 ; States-in-collection: 788308 ; Time: 1550409358.055812
+>>>Queue Stats: inserted=788308 items_in_queue=88308 extracted=700000
+Reached 800000 ; States-in-collection: 883877 ; Time: 1550409358.471139
+>>>Queue Stats: inserted=883877 items_in_queue=83877 extracted=800000
+Reached 900000 ; States-in-collection: 979564 ; Time: 1550409358.903862
+>>>Queue Stats: inserted=979564 items_in_queue=79564 extracted=900000
+Reached 1000000 ; States-in-collection: 1074626 ; Time: 1550409359.364407
+>>>Queue Stats: inserted=1074626 items_in_queue=74626 extracted=1000000
+Reached 1100000 ; States-in-collection: 1167508 ; Time: 1550409359.823960
+>>>Queue Stats: inserted=1167508 items_in_queue=67508 extracted=1100000
+Reached 1200000 ; States-in-collection: 1268161 ; Time: 1550409360.284547
+>>>Queue Stats: inserted=1268161 items_in_queue=68161 extracted=1200000
+Reached 1300000 ; States-in-collection: 1365726 ; Time: 1550409360.766029
+>>>Queue Stats: inserted=1365726 items_in_queue=65726 extracted=1300000
+Reached 1400000 ; States-in-collection: 1471918 ; Time: 1550409361.237169
+>>>Queue Stats: inserted=1471918 items_in_queue=71918 extracted=1400000
+Reached 1500000 ; States-in-collection: 1577264 ; Time: 1550409361.735667
+>>>Queue Stats: inserted=1577264 items_in_queue=77264 extracted=1500000
+Reached 1600000 ; States-in-collection: 1682243 ; Time: 1550409362.222399
+>>>Queue Stats: inserted=1682243 items_in_queue=82243 extracted=1600000
+Reached 1700000 ; States-in-collection: 1783022 ; Time: 1550409362.710514
+>>>Queue Stats: inserted=1783022 items_in_queue=83022 extracted=1700000
+Reached 1800000 ; States-in-collection: 1886522 ; Time: 1550409363.217005
+>>>Queue Stats: inserted=1886522 items_in_queue=86522 extracted=1800000
+Reached 1900000 ; States-in-collection: 1985619 ; Time: 1550409363.725992
+>>>Queue Stats: inserted=1985619 items_in_queue=85619 extracted=1900000
+Reached 2000000 ; States-in-collection: 2078623 ; Time: 1550409364.238620
+>>>Queue Stats: inserted=2078623 items_in_queue=78623 extracted=2000000
+Reached 2100000 ; States-in-collection: 2166636 ; Time: 1550409364.735018
+>>>Queue Stats: inserted=2166636 items_in_queue=66636 extracted=2100000
+Reached 2200000 ; States-in-collection: 2254274 ; Time: 1550409365.248601
+>>>Queue Stats: inserted=2254274 items_in_queue=54274 extracted=2200000
+Reached 2300000 ; States-in-collection: 2339176 ; Time: 1550409365.753706
+>>>Queue Stats: inserted=2339176 items_in_queue=39176 extracted=2300000
+Reached 2400000 ; States-in-collection: 2420875 ; Time: 1550409366.269165
+>>>Queue Stats: inserted=2420875 items_in_queue=20875 extracted=2400000
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2471814 ; States-in-collection: 2471814 ; Time: 1550409366.608002
+>>>Queue Stats: inserted=2471814 items_in_queue=0 extracted=2471814
+Could not solve successfully.
+handle_and_destroy_instance_solution end
